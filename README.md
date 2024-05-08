@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahdi004
+- 👋 Hi, I’m Mahdi
 - 👀 I’m interested in BackEnd
 - 🌱 I’m currently learning PHP and Laravel
 - 📫 How to reach me critohonest@gmail.com
